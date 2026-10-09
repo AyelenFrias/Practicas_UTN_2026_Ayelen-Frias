@@ -117,3 +117,4 @@ console.log("salario despues de incrementar: " + Number(porcentaje) + "%" + " " 
 
 cumplirAnios()
 console.log("edad despues de cumplir años: " + Number(personaje.edad))*/
+
